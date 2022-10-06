@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.green{
+    background-color: #00A650;
+    color: white;
+}
+.white{
+    background-color: #FFFFFF;
+    color: black;
+}
+.red{
+    background-color: #ED1A23;
+    color: white;
+}
